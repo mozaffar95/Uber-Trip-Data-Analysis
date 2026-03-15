@@ -1,26 +1,46 @@
-#  Uber Trip Data Analysis
+# Uber Trip Data Analysis
 
-This project analyzes Uber trip data for January and February using Python Pandas.
+## Project Overview
 
-##  Key Analysis Performed
+This project analyzes Uber trip data for January and February using Python and Pandas.
 
-- Total trips calculation
-- Monthly and daily demand trends
-- Day-of-week analysis
-- Base-wise performance evaluation
-- Active vehicles statistics
-- Correlation between vehicles and trips
-- Identification of busiest day and base
+##  Objectives
 
-##  Tools Used
+* Calculate total trips
+* Identify busiest days and months
+* Analyze base-wise performance
+* Study demand trends
+* Examine relationship between active vehicles and trips
 
-- Python
-- Pandas
+##  Tools & Technologies
 
-##  Dataset
+* Python
+* Pandas
+* VS Code
 
-Uber operational data containing trip counts and active vehicles.
+## Dataset Information
 
-##  Conclusion
+The dataset contains Uber operational data including:
 
-The analysis identifies demand patterns, peak periods, and operational efficiency across different dispatching bases.
+* Date
+* Dispatching base number
+* Active vehicles
+* Trip counts
+
+## Key Analysis Performed
+
+* Monthly trip analysis
+* Daily trip patterns
+* Day-of-week trends
+* Base-wise performance
+* Correlation analysis
+* Identification of busiest day and base
+
+## Conclusion
+
+The analysis reveals peak demand periods, operational efficiency, and trip distribution patterns across different bases.
+
+## Author
+
+Mozaffar (Data Analysis Project)
+
